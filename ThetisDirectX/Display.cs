@@ -1,4 +1,9 @@
-﻿using System;
+﻿// based on code from https://github.com/TAPR/OpenHPSDR-Thetis
+// same license conditions
+// https://github.com/TAPR/OpenHPSDR-Thetis/blob/master/Project%20Files/GNU_GENERAL_PUBLIC_LICENSE.rtf
+// MW0LGE - 2022
+
+using System;
 using System.Collections.Generic;
 using System.Collections.Concurrent;
 using System.Drawing;
