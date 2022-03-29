@@ -129,7 +129,7 @@ namespace ThetisDirectX
                 try
                 {
                     m_adapter = adapter;
-                    DeviceCreationFlags debug = DeviceCreationFlags.Debug;
+                    DeviceCreationFlags debug = DeviceCreationFlags.None; // Debug;
 
                     // to get this to work, need to target the os
                     // https://www.prugg.at/2019/09/09/properly-detect-windows-version-in-c-net-even-windows-10/
